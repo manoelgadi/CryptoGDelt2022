@@ -29,6 +29,6 @@ In each folder Relevance, Sentiment and Strength a Python Jupyter notebook calle
 (development dataset: Strength/FF3_daily.csv and Strength/news_short.xlsx; deployment dataset - input: OneYearNewsDataset_AfterSentiment.csv - output: OneYearNewsDataset_AfterStrength.csv) OneYearNewsDataset_AfterStrength.csv is similar to CryptoGDelt2022.csv, CryptoGDelt2022.csv contains some extra date fields used for sorting the news by date and time.
 
 
-* __5th Optionally run CryptoGDelt2022\_EDA.ipynb: this code outputs an EDA of the dataset (currently CryptoGDelt2022.csv, change it to OneYearNewsDataset_AfterStrength.csv if you want to use the newly created dataset).
+* __5th Optionally run CryptoGDelt2022_EDA.ipynb:__ this code outputs an EDA of the dataset (currently CryptoGDelt2022.csv, change it to OneYearNewsDataset_AfterStrength.csv if you want to use the newly created dataset).
 
 
